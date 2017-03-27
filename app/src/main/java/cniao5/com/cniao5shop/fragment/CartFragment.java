@@ -18,6 +18,7 @@ import com.squareup.okhttp.Response;
 import java.util.List;
 
 import cniao5.com.cniao5shop.Contants;
+import cniao5.com.cniao5shop.CreateOrderActivity;
 import cniao5.com.cniao5shop.NewOrderActivity;
 import cniao5.com.cniao5shop.R;
 import cniao5.com.cniao5shop.adapter.CartAdapter;
@@ -90,7 +91,7 @@ public class CartFragment extends BaseFragment implements View.OnClickListener{
     public void toOrder(View view){
 
 
-        Intent intent=new Intent(getActivity(), NewOrderActivity.class);
+        Intent intent=new Intent(getActivity(), CreateOrderActivity.class);
 
         startActivity(intent,true);
 

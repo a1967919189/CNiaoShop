@@ -11,7 +11,9 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/baidupay" />
             <option value="$PROJECT_DIR$/gloablelibarary" />
+            <option value="$PROJECT_DIR$/paysdk" />
             <option value="$PROJECT_DIR$/sharesdk" />
             <option value="$PROJECT_DIR$/smssdk" />
           </set>

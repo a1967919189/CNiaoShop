@@ -122,6 +122,7 @@ public class CartProvider {
 
 
 
+
     public  List<ShoppingCart> getDataFromLocal(){
 
         String json = PreferencesUtils.getString(mContext,CART_JSON);

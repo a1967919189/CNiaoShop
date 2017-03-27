@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CNiaoShop.iml" filepath="$PROJECT_DIR$/CNiaoShop.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baidupay/baidupay.iml" filepath="$PROJECT_DIR$/baidupay/baidupay.iml" />
       <module fileurl="file://$PROJECT_DIR$/gloablelibarary/gloablelibarary.iml" filepath="$PROJECT_DIR$/gloablelibarary/gloablelibarary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/paysdk/paysdk.iml" filepath="$PROJECT_DIR$/paysdk/paysdk.iml" />
       <module fileurl="file://$PROJECT_DIR$/sharesdk/sharesdk.iml" filepath="$PROJECT_DIR$/sharesdk/sharesdk.iml" />
       <module fileurl="file://$PROJECT_DIR$/smssdk/smssdk.iml" filepath="$PROJECT_DIR$/smssdk/smssdk.iml" />
     </modules>
